@@ -11,3 +11,7 @@ Responding to change over following a plan<br><br>
 
 That is, while there is value in the items on<br>
 the right, we value the items on the left more.<br>
+
+Kent Beck<br>
+Mike Beedle<br>
+Arie van Bennekum<br>
