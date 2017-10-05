@@ -1,3 +1,4 @@
+
 # Manifesto for Agile Software Development
 
 We are uncovering better ways of developing <br>
@@ -21,8 +22,20 @@ Andrew Hunt<br>
 Ron Jeffries<br>
 Jon Kern<br>
 Brian Marick<br>
-	Robert C. Martin<br>
+Robert C. Martin<br>
+Steve Mellor<br>
+Ken Schwaber<br>
+Jeff Sutherland<br>
+James Grenning<br>
+Jim Highsmith<br>
+Andrew Hunt<br>
+Ron Jeffries<br>
+Jon Kern<br>
+Brian Marick<br>
+Robert C. Martin<br>
 Steve Mellor<br>
 Ken Schwaber<br>
 Jeff Sutherland<br>
 Dave Thomas<br>
+Martin Fowler<br>
+
