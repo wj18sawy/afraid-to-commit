@@ -23,3 +23,9 @@ Steve Mellor<br>
 Ken Schwaber<br>
 Jeff Sutherland<br>
 Dave Thomas<br>
+Kent Beck<br>
+Mike Beedle<br>
+Arie van Bennekum<br>
+Alistair Cockburn<br>
+Ward Cunningham<br>
+Martin Fowler<br>
